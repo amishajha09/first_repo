@@ -3,4 +3,4 @@
     git config --global user.name
     history
 
-gi
+git push -u origin master
